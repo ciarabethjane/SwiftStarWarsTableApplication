@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movieCharacters>
+    <TV>
+        <character>
+            <name>Grogu</name>
+            <homePlanet>Unknown</homePlanet>
+            <birthYear>41bby</birthYear>
+            <eyeColour>Brown</eyeColour>
+            <image>grogu.jpg</image>
+            <weblink>https://www.starwars.com/databank/grogu</weblink>
+            <firstFilm>TV</firstFilm>
+        </character>
+        <character>
+            <name>Ahsoka Tano</name>
+            <homePlanet>Shili</homePlanet>
+            <birthYear>36bby</birthYear>
+            <eyeColour>Blue</eyeColour>
+            <image>ahsoka.jpeg</image>
+            <weblink>https://www.starwars.com/databank/ahsoka-tano</weblink>
+            <firstFilm>TV</firstFilm>
+        </character>
+        <character>
+            <name>Din Djarin</name>
+            <homePlanet>Aq Vetina</homePlanet>
+            <birthYear>Prior to 19bby</birthYear>
+            <eyeColour>Brown</eyeColour>
+            <image>din.jpeg</image>
+            <weblink>https://www.starwars.com/databank/the-mandalorian</weblink>
+            <firstFilm>TV</firstFilm>
+        </character>
+        <character>
+            <name>Peli Motto</name>
+            <homePlanet>Tatooine</homePlanet>
+            <birthYear>Unknown</birthYear>
+            <eyeColour>Brown</eyeColour>
+            <image>peli.jpeg</image>
+            <weblink>https://www.starwars.com/databank/peli-motto</weblink>
+            <firstFilm>TV</firstFilm>
+        </character>
+        <character>
+            <name>Fennec Shand</name>
+            <homePlanet>Tatooine</homePlanet>
+            <birthYear>Unknown</birthYear>
+            <eyeColour>Brown</eyeColour>
+            <image>fennec.jpeg</image>
+            <weblink>https://www.starwars.com/databank/fennec-shand</weblink>
+            <firstFilm>TV</firstFilm>
+        </character>
+    </TV>
+    <original>
+        <character>
+            <name>Obi Wan Kenobi</name>
+            <homePlanet>Stewjon</homePlanet>
+            <birthYear>57bby</birthYear>
+            <eyeColour>Grey-Blue</eyeColour>
+            <image>obi.jpeg</image>
+            <weblink>https://www.starwars.com/databank/obi-wan-kenobi</weblink>
+            <firstFilm>4</firstFilm>
+        </character>
+        <character>
+            <name>Yoda</name>
+            <homePlanet>Unknown</homePlanet>
+            <birthYear>896bby</birthYear>
+            <eyeColour>Green-Gold</eyeColour>
+            <image>yoda.jpeg</image>
+            <weblink>https://www.starwars.com/databank/yoda</weblink>
+            <firstFilm>4</firstFilm>
+        </character>
+        <character>
+            <name>Anakin Skywalker</name>
+            <homePlanet>Tatooine</homePlanet>
+            <birthYear>41bby</birthYear>
+            <eyeColour>Brown</eyeColour>
+            <image>anakin.jpeg</image>
+            <weblink>https://www.starwars.com/databank/anakin-skywalker</weblink>
+            <firstFilm>4</firstFilm>
+        </character>
+        <character>
+            <name>R2-D2</name>
+            <homePlanet>Naboo</homePlanet>
+            <birthYear>During or prior to 32 bby</birthYear>
+            <eyeColour>Brown</eyeColour>
+            <image>r2.jpeg</image>
+            <weblink>https://www.starwars.com/databank/r2-d2</weblink>
+            <firstFilm>4</firstFilm>
+        </character>
+        <character>
+            <name>Luke Skywalker</name>
+            <homePlanet>Tatooine</homePlanet>
+            <birthYear>35aby</birthYear>
+            <eyeColour>Blue</eyeColour>
+            <image>luke.jpeg</image>
+            <weblink>https://www.starwars.com/databank/luke-skywalker</weblink>
+            <firstFilm>4</firstFilm>
+        </character>
+        <character>
+            <name>C-3P0</name>
+            <homePlanet>Tatooine</homePlanet>
+            <birthYear>Prior to 32bby</birthYear>
+            <eyeColour>Gold</eyeColour>
+            <image>threepio.jpeg</image>
+            <weblink>https://www.starwars.com/databank/c-3po</weblink>
+            <firstFilm>4</firstFilm>
+        </character>
+        <character>
+            <name>Princess Leia Organa</name>
+            <homePlanet>Alderaan</homePlanet>
+            <birthYear>35aby</birthYear>
+            <eyeColour>Brown</eyeColour>
+            <image>leia.jpeg</image>
+            <weblink>https://www.starwars.com/databank/leia-organa</weblink>
+            <firstFilm>4</firstFilm>
+        </character>
+        <character>
+            <name>Han Solo</name>
+            <homePlanet>Corellia</homePlanet>
+            <birthYear>32bby</birthYear>
+            <eyeColour>Hazel-Green</eyeColour>
+            <image>han.jpeg</image>
+            <weblink>https://www.starwars.com/databank/han-solo</weblink>
+            <firstFilm>4</firstFilm>
+        </character>
+        <character>
+            <name>Chewbacca</name>
+            <homePlanet>Kashyyyk</homePlanet>
+            <birthYear>200bby</birthYear>
+            <eyeColour>Blue</eyeColour>
+            <image>chewie.jpeg</image>
+            <weblink>https://www.starwars.com/databank/chewbacca</weblink>
+            <firstFilm>4</firstFilm>
+        </character>
+    </original>
+    <sequel>
+        <character>
+            <name>Padme Amidala</name>
+            <homePlanet>Naboo</homePlanet>
+            <birthYear>46bby</birthYear>
+            <eyeColour>Brown</eyeColour>
+            <image>padme.jpeg</image>
+            <weblink>https://www.starwars.com/databank/padme-amidala</weblink>
+            <firstFilm>1</firstFilm>
+        </character>
+        <character>
+            <name>Boba Fett</name>
+            <homePlanet>Kamino</homePlanet>
+            <birthYear>32bby</birthYear>
+            <eyeColour>Brown</eyeColour>
+            <image>boba.jpeg</image>
+            <weblink>https://www.starwars.com/databank/boba-fett</weblink>
+            <firstFilm>1</firstFilm>
+        </character>
+    </sequel>
+    <new>
+        <character>
+            <name>Poe Dameron</name>
+            <homePlanet>Yavin 4</homePlanet>
+            <birthYear>2aby</birthYear>
+            <eyeColour>Brown</eyeColour>
+            <image>poe.jpeg</image>
+            <weblink>https://www.starwars.com/databank/poe-dameron</weblink>
+            <firstFilm>7</firstFilm>
+        </character>
+        <character>
+            <name>Rey Skywalker</name>
+            <homePlanet>Jakku</homePlanet>
+            <birthYear>15aby</birthYear>
+            <eyeColour>Hazel</eyeColour>
+            <image>rey.jpeg</image>
+            <weblink>https://www.starwars.com/databank/rey</weblink>
+            <firstFilm>7</firstFilm>
+        </character>
+    </new>
+</movieCharacters>
